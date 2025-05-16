@@ -37,4 +37,4 @@ alter table 表空间.表名2 comment on column 列名3 is '测试1';
 
 不同表会存在不同的工作表中，名称与表名一致
 
-![image-20250516140315746](\image\result.png)
+![image-20250516140315746](/image/result.png)
